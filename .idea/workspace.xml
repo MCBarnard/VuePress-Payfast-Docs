@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1c3ff528-8c6a-4bc2-9798-db4deb5ff29c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1Z6dZAibBWYtEUItURuzqowYGE1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Public" />
+    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1c3ff528-8c6a-4bc2-9798-db4deb5ff29c" name="Default Changelist" comment="" />
+      <created>1584163531537</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584163531537</updated>
+      <workItem from="1584163540418" duration="4124000" />
+      <workItem from="1584167678704" duration="30553000" />
+      <workItem from="1584281100813" duration="3985000" />
+      <workItem from="1584290395108" duration="153000" />
+      <workItem from="1584335519663" duration="1794000" />
+      <workItem from="1584356151287" duration="478000" />
+      <workItem from="1584640823871" duration="957000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="647" y="309" width="616" height="416" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584167552964">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="647" y="309" width="616" height="416" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.980@0.27.1920.980" timestamp="1584167552964" />
+    <state x="743" y="261" width="424" height="484" key="FileChooserDialogImpl" timestamp="1584642439591">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="743" y="261" width="424" height="484" key="FileChooserDialogImpl/1920.0.1920.1080/0.27.1920.980@0.27.1920.980" timestamp="1584642439591" />
+    <state x="449" y="152" key="SettingsEditor" timestamp="1584167748925">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="449" y="152" key="SettingsEditor/0.27.1920.980@0.27.1920.980" timestamp="1584167748925" />
+    <state x="596" y="59" width="727" height="915" key="find.popup" timestamp="1584337274577">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="596" y="59" width="727" height="915" key="find.popup/0.27.1920.980@0.27.1920.980" timestamp="1584337274577" />
+    <state x="624" y="235" key="run.anything.popup" timestamp="1584283925100">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="624" y="235" key="run.anything.popup/0.27.1920.980@0.27.1920.980" timestamp="1584283925100" />
+    <state x="623" y="241" width="672" height="678" key="search.everywhere.popup" timestamp="1584237388388">
+      <screen x="0" y="27" width="1920" height="980" />
+    </state>
+    <state x="623" y="241" width="672" height="678" key="search.everywhere.popup/0.27.1920.980@0.27.1920.980" timestamp="1584237388388" />
+  </component>
+</project>
