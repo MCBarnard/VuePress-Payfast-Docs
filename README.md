@@ -1,10 +1,9 @@
----
-    home: true
-    heroText: 'PayFast Documentation'
-    pageClass: Home-page
-    layout: homepage
----
+# Vuepress Documentation tool
+Software that uses vue, and markdown format files to generate documentations or static sites.
 
+# Set up locally
+Clone the repo, and run the following command inside the public repo to serve up a localhost client
 
-[comment]: <> (Vuepress works off of markdown and will display all markdown texts)
-[comment]: <> (To Run this repo locally, clone it and run vuepress serve in the root directory)
+```bash
+vuepress serve
+```
