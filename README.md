@@ -10,4 +10,6 @@ Clone the repo, and run the following command inside the public repo to serve up
 npm install -g vuepress
 cd [into vuepress site]
 vuepress serve
+
+(If on windows run vuepress dev)
 ```
