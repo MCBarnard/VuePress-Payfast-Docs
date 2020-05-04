@@ -7,5 +7,7 @@ Mimic current PayFast documentation on Vuepress, with a few extra static pages b
 Clone the repo, and run the following command inside the public repo to serve up a localhost client
 
 ```bash
+npm install -g vuepress
+cd [into vuepress site]
 vuepress serve
 ```
