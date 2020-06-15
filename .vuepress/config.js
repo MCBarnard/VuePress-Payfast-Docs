@@ -1,5 +1,5 @@
 module.exports = {
-    base: 'public',
+    base: '/VuePress-Payfast-Docs/',
     title: 'PayFast Documentation',
     description: 'aa',
     head: [

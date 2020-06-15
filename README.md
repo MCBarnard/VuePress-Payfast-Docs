@@ -1,13 +1,10 @@
-# Vuepress Documentation tool
-Software that uses vue, and markdown format files to generate documentations or static sites.
+---
+    home: true
+    heroText: 'PayFast Documentation'
+    pageClass: Home-page
+    layout: homepage
+---
 
-Mimic current PayFast documentation on Vuepress, with a few extra static pages built out of Vue components
 
-# Set up locally
-Clone the repo, and run the following command inside the public repo to serve up a localhost client
-
-```bash
-npm install -g vuepress
-cd [into vuepress site]
-vuepress dev
-```
+[comment]: <> (Vuepress works off of markdown and will display all markdown texts)
+[comment]: <> (To Run this repo locally, clone it and run vuepress serve in the root directory)
