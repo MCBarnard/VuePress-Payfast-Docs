@@ -1,4 +1,5 @@
 module.exports = {
+    base: 'public',
     title: 'PayFast Documentation',
     description: 'aa',
     head: [
