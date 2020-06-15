@@ -8,6 +8,6 @@ Clone the repo, and run the following command inside the public repo to serve up
 
 ```bash
 npm install -g vuepress
-cd [into vuepress site]
+cd [into vuepress site]/public
 vuepress dev
 ```
