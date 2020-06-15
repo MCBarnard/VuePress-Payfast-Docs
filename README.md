@@ -9,7 +9,5 @@ Clone the repo, and run the following command inside the public repo to serve up
 ```bash
 npm install -g vuepress
 cd [into vuepress site]
-vuepress serve
-
-(If on windows run vuepress dev)
+vuepress dev
 ```
